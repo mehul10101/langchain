@@ -1,0 +1,654 @@
+{
+   "public_identifier":"mehulg3198",
+   "profile_pic_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/mehulg3198/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240117%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240117T145454Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ac37c47d9ad6190a5109c213a49cdc3b35a566419198956ee146725a11ddb5fa",
+   "background_cover_image_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/mehulg3198/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240117%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240117T145454Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7de029ba10f8e7dcc36d0de4c7a201f3cd2c4f1ab8116ede7c76b5baed608c57",
+   "first_name":"Mehul",
+   "last_name":"Gupta",
+   "full_name":"Mehul Gupta",
+   "follower_count":null,
+   "occupation":"Software Engineer 2 at Glance",
+   "headline":"Learning new things. It isn't easy, trying to get used to it.",
+   "summary":"Likes real life problem solving.\nWorking as SDE.\nLikes to learn a lot and also making mistakes while doing it.\n\n",
+   "country":"IN",
+   "country_full_name":"India",
+   "city":"Bangalore Urban",
+   "state":"Karnataka",
+   "experiences":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2021
+         },
+         "ends_at":null,
+         "company":"Glance",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/glancescreen/",
+         "title":"Software Engineer 2",
+         "description":null,
+         "location":"Bangalore Urban, Karnataka, India",
+         "logo_url":"https://media-exp2.licdn.com/dms/image/C560BAQEfHMUCiylUqQ/company-logo_400_400/0/1633671683589?e=1665014400&v=beta&t=RqPlI7zUvBiIFNiczgXUAj5rRPSVWDEmVH9n42vds9Y"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":5,
+            "year":2019
+         },
+         "ends_at":{
+            "day":31,
+            "month":5,
+            "year":2021
+         },
+         "company":"Get My Parking",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/getmyparking/",
+         "title":"SDE",
+         "description":"Working on Backend Technologies (Spring boot, Dropwizard, Java, JUnit, MySQL). \nMaking REST APIs, adding features, optimisation of APIs, finding RCA of production issues and fixing them.",
+         "location":"Bangalore",
+         "logo_url":"https://media-exp2.licdn.com/dms/image/C4E0BAQGE9J0VncWdXA/company-logo_400_400/0/1519889426932?e=1665014400&v=beta&t=M9awto8jnRZj95GJ1Q-5huEP8T0eiW9FcCX3LT9dO9c"
+      }
+   ],
+   "education":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2015
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2019
+         },
+         "field_of_study":"Computer Science",
+         "degree_name":"Bachelor's degree",
+         "school":"SRM University",
+         "school_linkedin_profile_url":"https://in.linkedin.com/school/srm-university/",
+         "description":null,
+         "logo_url":"https://media-exp2.licdn.com/dms/image/C510BAQHO4Qj_rvGxUA/company-logo_400_400/0/1565025702584?e=1665014400&v=beta&t=Wh6hoMS8TgemubeBauAQrRydkAEycPnbsd85IQk4tIE",
+         "grade":null,
+         "activities_and_societies":null
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2013
+         },
+         "ends_at":{
+            "day":31,
+            "month":12,
+            "year":2015
+         },
+         "field_of_study":"PCM",
+         "degree_name":"Higher Secondary",
+         "school":"Step By Step High School, Jaipur",
+         "school_linkedin_profile_url":"https://in.linkedin.com/school/step-by-step-high-school-jaipur/",
+         "description":null,
+         "logo_url":"https://media-exp2.licdn.com/dms/image/C560BAQEgKwy-DT4MWw/company-logo_400_400/0/1559302827463?e=1665014400&v=beta&t=5R2MpmBe_o1IWdF73dEUMY0sqNDgWro6liMl5IjLJx4",
+         "grade":null,
+         "activities_and_societies":null
+      }
+   ],
+   "languages":[
+      
+   ],
+   "accomplishment_organisations":[
+      
+   ],
+   "accomplishment_publications":[
+      
+   ],
+   "accomplishment_honors_awards":[
+      
+   ],
+   "accomplishment_patents":[
+      
+   ],
+   "accomplishment_courses":[
+      
+   ],
+   "accomplishment_projects":[
+      
+   ],
+   "accomplishment_test_scores":[
+      
+   ],
+   "volunteer_work":[
+      
+   ],
+   "certifications":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":11,
+            "year":2021
+         },
+         "ends_at":null,
+         "name":"Docker for Java Developers",
+         "license_number":null,
+         "display_source":"linkedin.com",
+         "authority":"LinkedIn",
+         "url":"https://www.linkedin.com/learning/docker-for-java-developers?trk=flagship-lil_details_certification"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":2,
+            "year":2020
+         },
+         "ends_at":null,
+         "name":"Convolutional Neural Networks in TensorFlow",
+         "license_number":"TZNH2SZSH5MZ",
+         "display_source":"coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/verify/TZNH2SZSH5MZ"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":2,
+            "year":2020
+         },
+         "ends_at":null,
+         "name":"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+         "license_number":"CMWE382T8WL2",
+         "display_source":"coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/verify/CMWE382T8WL2"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":2020
+         },
+         "ends_at":null,
+         "name":"Neural Networks and Deep Learning",
+         "license_number":"FCFN4KJ9GFYX",
+         "display_source":"coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/verify/FCFN4KJ9GFYX"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":10,
+            "year":2019
+         },
+         "ends_at":null,
+         "name":"Mathematics for Machine Learning: Linear Algebra",
+         "license_number":"T9WPN5T5TY5W",
+         "display_source":"coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/certificate/T9WPN5T5TY5W"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":10,
+            "year":2019
+         },
+         "ends_at":null,
+         "name":"Mathematics for Machine Learning: Multivariate Calculus",
+         "license_number":"8PXMSJ2ZAYAW",
+         "display_source":"coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/certificate/8PXMSJ2ZAYAW?utm_me"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":10,
+            "year":2019
+         },
+         "ends_at":null,
+         "name":"Mathematics for Machine Learning: PCA",
+         "license_number":"FQ6V63CDVRB7",
+         "display_source":null,
+         "authority":"Coursera",
+         "url":null
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2018
+         },
+         "ends_at":null,
+         "name":"Complete Python Bootcamp: Go from zero to hero in Python 3",
+         "license_number":"UC-8UM1F2GZ",
+         "display_source":"ude.my",
+         "authority":"Udemy",
+         "url":"http://ude.my/UC-8UM1F2GZ"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":4,
+            "year":2018
+         },
+         "ends_at":null,
+         "name":"Customer Analytics",
+         "license_number":"9UFMZSCPPMSV",
+         "display_source":"coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/verify/9UFMZSCPPMSV"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":3,
+            "year":2018
+         },
+         "ends_at":null,
+         "name":"Introduction to Data Science in Python",
+         "license_number":"LF7BY2GLTKX2",
+         "display_source":"coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/verify/LF7BY2GLTKX2"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":3,
+            "year":2018
+         },
+         "ends_at":null,
+         "name":"Python Programming Essentials",
+         "license_number":"JEWAZPH5CSF3",
+         "display_source":"coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/verify/JEWAZPH5CSF3"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2017
+         },
+         "ends_at":null,
+         "name":"Programming for Everybody (Getting Started with Python)",
+         "license_number":"YQFABYN8QYT7",
+         "display_source":"coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/verify/YQFABYN8QYT7"
+      }
+   ],
+   "connections":500,
+   "people_also_viewed":[
+      {
+         "link":"https://in.linkedin.com/in/geekon",
+         "name":"Anant Raj",
+         "summary":"Senior Software Engineer at Glance | IIIT Allahabad",
+         "location":"Nalanda"
+      },
+      {
+         "link":"https://in.linkedin.com/in/ashish-sharma-nitj",
+         "name":"Ashish Sharma",
+         "summary":"SDE-2 at AWS",
+         "location":"Jalandhar"
+      },
+      {
+         "link":"https://in.linkedin.com/in/sarthak-sehgal",
+         "name":"sarthak sehgal",
+         "summary":"Software Engineer II at Glance, Inmobi.",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/anant-pathak-84839166",
+         "name":"Anant Pathak",
+         "summary":"Building for the next billion @Glance.",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/chiranjeeviakhil",
+         "name":"Chiranjeevi Akhil",
+         "summary":"Software Engineer at DISYS India Pvt. Ltd.",
+         "location":"Chennai"
+      },
+      {
+         "link":"https://in.linkedin.com/in/saket15",
+         "name":"Saket Agarwal",
+         "summary":"Software Engineer at Glance",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/dev-aritra",
+         "name":"Aritra Das",
+         "summary":"SDE2 @ Glance (InMobi) | Distributed Systems | Polyglot",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/akanksha007",
+         "name":"Akanksha Agarwal",
+         "summary":"Software Development Engineer - III at Glance - Inmobi",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/tonythomas1",
+         "name":"Tony Thomas",
+         "summary":"SDE II at Glance",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/akanksha-choudhary-852404100",
+         "name":"Akanksha Choudhary",
+         "summary":"SDE-2 @InMobi (Glance) | Ex- Times Internet",
+         "location":"Ghaziabad"
+      },
+      {
+         "link":"https://in.linkedin.com/in/manjunath-r-403767ab",
+         "name":"Manjunath R",
+         "summary":"SDET || at Glance",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/ranand1201",
+         "name":"Rohit Anand",
+         "summary":"Data Scientist, Glance - InMobi Group",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/mohit-karmakar-5a7507161",
+         "name":"Mohit Karmakar",
+         "summary":"Associate Software Engineer at EY GDS",
+         "location":"Chennai"
+      },
+      {
+         "link":"https://in.linkedin.com/in/singh-sidharth",
+         "name":"Sidharth Singh",
+         "summary":"Software Engineer at Subex",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/mohamed-fasil",
+         "name":"Mohamed Fasil",
+         "summary":"UI Engineering @ Glance, Hiring UI engineers",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/amit-yadav1",
+         "name":"Amit Yadav",
+         "summary":"SDE-2 at Glance | Inmobi | Ex-Venuemonk",
+         "location":"Gurgaon"
+      },
+      {
+         "link":"https://in.linkedin.com/in/rmehra1903",
+         "name":"Rohit Mehra",
+         "summary":"Data Scientist at Glance",
+         "location":"Delhi, India"
+      },
+      {
+         "link":"https://in.linkedin.com/in/aman-tiwari-790081175",
+         "name":"AMAN TIWARI",
+         "summary":"SDE-I  at SmartServ ||  Proficient with Data Structures and Algorithm || 5 star Hackerrank || 4 star LeetCode",
+         "location":"New Delhi"
+      },
+      {
+         "link":"https://in.linkedin.com/in/amanp10",
+         "name":"Aman Pratik",
+         "summary":"SDE-2@Apple | IIT-BHU, Varanasi",
+         "location":"Hyderabad"
+      },
+      {
+         "link":"https://in.linkedin.com/in/rahul-sehrawat-b640ba135",
+         "name":"Rahul Sehrawat",
+         "summary":"SDE at Amazon",
+         "location":"Delhi, India"
+      },
+      {
+         "link":"https://www.linkedin.com/in/rimshagoomer",
+         "name":"Rimsha Goomer",
+         "summary":"Software Engineer, Machine Learning @ Google",
+         "location":"San Francisco Bay Area"
+      },
+      {
+         "link":"https://in.linkedin.com/in/radha-prajapat-0b50a5125",
+         "name":"radha prajapat",
+         "summary":"Software Engineer at liveCarrer",
+         "location":"Noida"
+      },
+      {
+         "link":"https://in.linkedin.com/in/vinay-khetan",
+         "name":"Vinay Khetan",
+         "summary":"Engineering Manager at Glance",
+         "location":"Haora"
+      },
+      {
+         "link":"https://in.linkedin.com/in/utkarsh-agrawal1337",
+         "name":"Utkarsh Agrawal",
+         "summary":"Software Engineer at Amadeus",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/subash-ramasamy-611869205",
+         "name":"Subash Ramasamy",
+         "summary":"Attended SRM University",
+         "location":"Chennai"
+      },
+      {
+         "link":"https://in.linkedin.com/in/adarsh-anand-b71a4a175",
+         "name":"Adarsh Anand",
+         "summary":"Student at KJ Somaiya",
+         "location":"Mumbai"
+      },
+      {
+         "link":"https://in.linkedin.com/in/vandhana-rajasekaran-923559172",
+         "name":"Vandhana Rajasekaran",
+         "summary":"Associate Editor at Glance",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/om-shivam-sharma-311b2b198",
+         "name":"Om shivam sharma",
+         "summary":"Software Development Engineer",
+         "location":"Ghaziabad"
+      },
+      {
+         "link":"https://in.linkedin.com/in/shreya-agarwal-881383159",
+         "name":"Shreya Agarwal",
+         "summary":"Software Developer at Amdocs",
+         "location":"Pune"
+      },
+      {
+         "link":"https://in.linkedin.com/in/koushik-dutta-420483224",
+         "name":"Koushik Dutta",
+         "summary":"QA Automation Engineer at Cognizant",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/uma-mukherjee-073243196",
+         "name":"Uma Mukherjee",
+         "summary":"Student at BITM, Santiniketan",
+         "location":"Purba Bardhaman"
+      },
+      {
+         "link":"https://in.linkedin.com/in/shoaib-a-169a649",
+         "name":"Shoaib A",
+         "summary":"Entrepreneur | Currently building for next billion users",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/utkarsh-khanna",
+         "name":"Utkarsh Khanna",
+         "summary":"Data Engineer @ Searce | GCP | AWS | ex Accenture",
+         "location":"Bengaluru"
+      },
+      {
+         "link":"https://in.linkedin.com/in/priyanshi-aggarwal-78a130129",
+         "name":"priyanshi aggarwal",
+         "summary":"Master of Computer Application (MCA)",
+         "location":"Dehradun"
+      },
+      {
+         "link":"https://in.linkedin.com/in/shaik-moses-a5b89a202",
+         "name":"Shaik Moses",
+         "summary":"Software engineer | @MERN stack | @MEAN stack | Flutter developer",
+         "location":"New Delhi"
+      },
+      {
+         "link":"https://in.linkedin.com/in/yash-goyal-3b647a1b0",
+         "name":"YASH GOYAL",
+         "summary":"MCA Student | Learning Data Structure And Algorithms | Interested in BlockChain Development",
+         "location":"New Delhi"
+      },
+      {
+         "link":"https://in.linkedin.com/in/mitul-sharma-496622118",
+         "name":"mitul sharma",
+         "summary":"Student at SRM University",
+         "location":"Chengalpattu"
+      },
+      {
+         "link":"https://in.linkedin.com/in/harshkumarsingh7",
+         "name":"Harsh Kumar",
+         "summary":"Student at IIMT COLLEGE OF ENGINEERING, GREATER NOIDA",
+         "location":"Faridabad"
+      },
+      {
+         "link":"https://in.linkedin.com/in/naman-kunjwal-68890b164",
+         "name":"Naman Kunjwal",
+         "summary":"programmer for fun",
+         "location":"Almora"
+      },
+      {
+         "link":"https://in.linkedin.com/in/kamya-malhotra-82789a55",
+         "name":"Kamya Malhotra",
+         "summary":"Software Developer at Next Education India Pvt Ltd",
+         "location":"Panipat"
+      },
+      {
+         "link":"https://www.linkedin.com/in/dhananjayrathod",
+         "name":"Dhananjay Rathod",
+         "summary":"SDE - III at Glance / Ex - Amazon",
+         "location":null
+      },
+      {
+         "link":"https://www.linkedin.com/in/himanshu-singh-758176117",
+         "name":"Himanshu Singh",
+         "summary":"SDE 2 at Nuclei",
+         "location":null
+      },
+      {
+         "link":"https://www.linkedin.com/in/saurabh-dhanik-250a31133",
+         "name":"Saurabh Dhanik",
+         "summary":"GRAPHIC ERA HILL UNIVERSITY (Bhimtal Campus )",
+         "location":null
+      },
+      {
+         "link":"https://www.linkedin.com/in/sai-prashanth-2a3aa4180",
+         "name":"Sai Prashanth",
+         "summary":"Software Engineer at HCL Technologies",
+         "location":null
+      },
+      {
+         "link":"https://www.linkedin.com/in/rupesh-amal-008154154",
+         "name":"RUPESH AMAL",
+         "summary":"Developer At Aristocrat",
+         "location":null
+      },
+      {
+         "link":"https://www.linkedin.com/in/baljeetsingh21",
+         "name":"BALJEET SINGH",
+         "summary":"Full Stack Mobile Developer | iOS | Android | Certified Developer by Google",
+         "location":null
+      }
+   ],
+   "recommendations":[
+      
+   ],
+   "activities":[
+      {
+         "title":"As Glance Family rejoins office, it's a happy feeling to have the office floors resonate with laughter and non stop conversations. While everyone is…",
+         "link":"https://in.linkedin.com/posts/glancescreen_as-glance-family-rejoins-office-its-a-happy-share-6922886547671322624-EdnT",
+         "activity_status":"Liked by Mehul Gupta"
+      },
+      {
+         "title":"First day in office post the pandemic!! How cool is this…#inmobi  #glance #inmobiglance#backtooffice #tonewbeginnings",
+         "link":"https://www.linkedin.com/feed/update/urn:li:activity:6919257400571047936",
+         "activity_status":"Liked by Mehul Gupta"
+      },
+      {
+         "title":"I encourage people to showcase their work online, create content & gain followings.Your talent & hardwork will get recognition.Internet is a land…",
+         "link":"https://in.linkedin.com/posts/corporatebhakt_i-encourage-people-to-showcase-their-work-share-6921352668854513664-pvZg",
+         "activity_status":"Liked by Mehul Gupta"
+      }
+   ],
+   "similarly_named_profiles":[
+      {
+         "name":"Mehul Gupta",
+         "link":"https://in.linkedin.com/in/mehulgupta-",
+         "summary":"Incoming Summer Intern @Amazon | IIT KGP '23 | Governor at Debating Society, IIT Kharagpur",
+         "location":"Faridabad"
+      },
+      {
+         "name":"Mehul Gupta",
+         "link":"https://in.linkedin.com/in/mehulgpt",
+         "summary":"Software Engineer at Visa | VIT'20",
+         "location":"Rajasthan, India"
+      },
+      {
+         "name":"Mehul Gupta",
+         "link":"https://in.linkedin.com/in/mehul-gupta-22b78837",
+         "summary":"Circle HR Head @ Airtel | Ex ABG | Ex Mahindra | Ex YES Bank | SCMHRD",
+         "location":"Mumbai"
+      },
+      {
+         "name":"Mehul Gupta",
+         "link":"https://www.linkedin.com/in/mehulg25",
+         "summary":"MSIS graduate student at Robert H. Smith School of Business, University of Maryland | Graduate Teaching Assistant | Startup Shell Founder’s Track",
+         "location":"Hyattsville, MD"
+      },
+      {
+         "name":"Mehul Gupta",
+         "link":"https://in.linkedin.com/in/mehulguptasc",
+         "summary":"Co-founder & CEO at SoCheers",
+         "location":"Mumbai"
+      },
+      {
+         "name":"Mehul Gupta",
+         "link":"https://in.linkedin.com/in/mehul-gupta-4a755031",
+         "summary":"Economist at PwC | Delhi School of Economics",
+         "location":"Gurgaon"
+      },
+      {
+         "name":"Mehul Gupta",
+         "link":"https://in.linkedin.com/in/mehulmg",
+         "summary":"Aerospace Engineering Student",
+         "location":"Chandigarh, India"
+      },
+      {
+         "name":"Mehul Gupta",
+         "link":"https://in.linkedin.com/in/mehul-gupta-a178908b",
+         "summary":"Senior Security Consultant at EY ( SailPoint | OKTA | JAVA | OIM )",
+         "location":"New Delhi"
+      }
+   ],
+   "articles":[
+      
+   ],
+   "groups":[
+      
+   ],
+   "skills":[
+      
+   ],
+   "inferred_salary":{
+      "min":null,
+      "max":null
+   },
+   "gender":null,
+   "birth_date":null,
+   "industry":null,
+   "extra":{
+      "github_profile_id":null
+   },
+   "interests":[
+      
+   ],
+   "personal_emails":[
+      
+   ],
+   "personal_numbers":[
+      
+   ]
+}
